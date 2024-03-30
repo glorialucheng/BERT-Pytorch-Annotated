@@ -1,3 +1,3 @@
 # BERT-Pytorch-Annotated
 
-Fork from ```/codertimo/BERT-pytorch```，中文详细注释。
+Forked from ```/codertimo/BERT-pytorch```，该仓库的中文详细注释版本，README参考原仓库。
